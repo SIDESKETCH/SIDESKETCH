@@ -8,7 +8,7 @@
 *...but might end up working as a **#FullStackDev**?*
 
 # 📑 **MY PROJECTS**
-### 📱 [***CYBERDARK THEME***](https://marketplace.visualstudio.com/items?itemName=SIDESKETCH.sidesketch-design&ssr=false#overview)
+### 📱 [***CYBERDARK THEME***](https://marketplace.visualstudio.com/items?itemName=SIDESKETCH.cyberdark-theme&ssr=false#overview)
 *A clean **CyberDark extension** theme for [**Visual Studio Code**](https://code.visualstudio.com).*
 
 ### 🕹️ [***SYNTHRIDE***](https://scratch.mit.edu/projects/846882109/)
