@@ -14,7 +14,7 @@
 ### 🕹️ [***SYNTHRIDE***](https://scratch.mit.edu/projects/846882109/)
 *A **retro-synthwave** side scroll racing game built in [**Scratch**](https://scratch.mit.edu/).*
 
-### 🎲 [***KBK***](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTFkMzU1YjljMzUwZDQ1ZmU3MjgzY2FjZDdmNDk2MjU4ZDM1NmRhZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o6Mbrds7JQAEBvHJm/giphy.gif](https://media.tenor.com/W-42HlChzwAAAAAM/rainn-wilson.gif)
+### 🎲 [***KBK***](https://media.tenor.com/W-42HlChzwAAAAAM/rainn-wilson.gif)
 ***#SecretProject** (TBD / TBA).*
 
 # 🔗 **CONTACT**
