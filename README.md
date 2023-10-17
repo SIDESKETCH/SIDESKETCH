@@ -12,7 +12,7 @@
 *A clean **CyberDark extension** theme for [**Visual Studio Code**](https://code.visualstudio.com).*
 
 ### 🕹️ [***SYNTHRIDE***](https://scratch.mit.edu/projects/846882109/)
-*A **retro-synthwave** side scroll racing game built in [**Scratch**](https://scratch.mit.edu/).*
+*A **retro-synthwave** side scroll racing game built in [**Scratch**](https://sidesketch.itch.io/synthride).*
 
 ### 🎲 [***KBK***](https://media.tenor.com/W-42HlChzwAAAAAM/rainn-wilson.gif)
 ***#SecretProject** (TBD / TBA).*
