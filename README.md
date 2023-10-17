@@ -11,8 +11,8 @@
 ### 📱 [***CYBERDARK THEME***](https://marketplace.visualstudio.com/items?itemName=SIDESKETCH.cyberdark-theme&ssr=false#overview)
 *A clean **CyberDark extension** theme for [**Visual Studio Code**](https://code.visualstudio.com).*
 
-### 🕹️ [***SYNTHRIDE***](https://scratch.mit.edu/projects/846882109/)
-*A **retro-synthwave** side scroll racing game built in [**Scratch**](https://sidesketch.itch.io/synthride).*
+### 🕹️ [***SYNTHRIDE***](https://sidesketch.itch.io/synthride)
+*A **retro-synthwave** side scroll racing game built in [**Scratch**](https://scratch.mit.edu/projects/846882109/).*
 
 ### 🎲 [***KBK***](https://media.tenor.com/W-42HlChzwAAAAAM/rainn-wilson.gif)
 ***#SecretProject** (TBD / TBA).*
