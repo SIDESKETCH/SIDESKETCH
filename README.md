@@ -1,9 +1,10 @@
 # ⭕ **ABOUT ME**
 ### *Hey, **SIDE** here.*
 
-
 *Started with **CS50X**, ended up building a portfolio.*
+
 *Pursuing to become a future Game Designer via **#IndieDev**.*
+
 *...but in the meantime, will keep doing projects at **SIDESKETCH STUDIO.***
 
 # 📑 **MY PROJECTS**
