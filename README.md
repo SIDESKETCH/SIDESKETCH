@@ -1,11 +1,10 @@
 # ⭕ **ABOUT ME**
 ### *Hey, **SIDE** here.*
 
-*Learning to code my way through **CS50X** ATM.*
 
-*Pursuing to become a future **#IndyGameDev**.*
-
-*...but might end up working as a **#FullStackDev**?*
+*Started with **CS50X**, ended up building a portfolio.*
+*Pursuing to become a future Game Designer via **#IndieDev**.*
+*...but in the meantime, will keep doing projects at **SIDESKETCH STUDIO.***
 
 # 📑 **MY PROJECTS**
 ### 📱 [***CYBERDARK THEME***](https://marketplace.visualstudio.com/items?itemName=SIDESKETCH.cyberdark-theme&ssr=false#overview)
