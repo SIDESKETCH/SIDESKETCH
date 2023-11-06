@@ -18,6 +18,6 @@
 ***#SecretProject** (TBD / TBA).*
 
 # 🔗 **CONTACT**
-*Hit me up on my (Spanish) **social media** at **[SIDESKETCH.CARRD.CO](https://sidesketch.carrd.co/)***
+*Hit me up on **social media** at **[SIDESKETCH.CARRD.CO](https://sidesketch.carrd.co/)***
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SIDESKETCH&count_private=true&title&title_color=E41838&text_color=FFFFFF&icon_color=414141&bg_color=0A0A0A&border_radius=3&show_icons=true&include_all_commits=true&hide_title=true)
